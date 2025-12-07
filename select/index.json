@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "エルフ",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T16:15:40.288363Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エルフ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_エルフ_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エルフ",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_エルフ_Ado.txt"
+    }
+  ]
+}
